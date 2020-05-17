@@ -1,0 +1,33 @@
+body {
+  color: rgb(255, 255, 255);
+  background: #000000
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: red;
+}
+.group-item {
+  text-align: center;
+}
+.group-item1 {
+  text-align: center;
+}
+.group-item2 {
+  text-align: center;
+}
+.back_list {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  color: green;
+}
+.discord {
+  text-align: center;
+}
